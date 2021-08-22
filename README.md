@@ -6,3 +6,9 @@
 #GSM Moduel :: sim900amini
 
 #RelayModule
+
+
+
+Program file :
+
+Main Program is earthquake_version9.py
